@@ -23,6 +23,9 @@
     <body class="antialiased">
        <h1>Welcome to the laravel store</h1>
        <div id="example"></div>
+       <div id="login"></div>
+
+       
        <script src="{{ mix('js/app.js')}}"> </script>
     </body>
 </html>
