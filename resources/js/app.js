@@ -1,3 +1,3 @@
 
-require('./components/Example');
+require('./components/Store');
 require('./components/Login');

@@ -21,9 +21,12 @@
         </style>
     </head>
     <body class="antialiased">
-       <h1>Welcome to the laravel store</h1>
-       <div id="example"></div>
+       <h1>Welcome to Fake Walmart</h1>
+       
+       <div id="store"></div>
        <div id="login"></div>
+       <div id="register"></div>
+
 
        
        <script src="{{ mix('js/app.js')}}"> </script>
